@@ -42,4 +42,5 @@ The dataset is now cleaned and enriched. The number of features has been optimiz
 ## 📂 How to Use
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Samir-Huseyn/marketing_campaign.csv.git](https://github.com/Samir-Huseyn/marketing_campaign.csv.git)
+   git clone [https://github.com/Samir-Huseyn/Clean-Marketing-dirty-data 
+.git](https://github.com/Samir-Huseyn/Clean-Marketing-dirty-data.git)
